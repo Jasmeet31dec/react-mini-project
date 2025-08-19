@@ -1,17 +1,11 @@
-# Tic Tac Toe Game 🕹️
+# react-mini-projects
 
-A simple React-based Tic Tac Toe game to practice state management and conditional rendering.
+A collection of beginner-friendly React projects built to strengthen my frontend development skills.
 
-## Features
-- Two-player turn-based gameplay
-- Win detection logic
-- Reset functionality
+## Projects
+- [Tic Tac Toe Game](./tic-tac-toe)
+- [React Investment Calculator](./react-investment-calculator)
 
-## Technologies
-- React (Hooks)
-- CSS for styling
+## About Me
+I'm currently pursuing B.Tech in Computer Science at GTBIT and exploring full-stack development with a focus on backend technologies like Spring Boot and frontend frameworks like React.
 
-## Setup
-```bash
-npm install
-npm run dev
