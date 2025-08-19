@@ -14,6 +14,7 @@ A simple React-based Tic Tac Toe game to practice state management and condition
 ## Setup
 ```bash
 npm install
-npm start
+npm run dev
+
 
 
