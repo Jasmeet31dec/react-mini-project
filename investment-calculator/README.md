@@ -1,4 +1,4 @@
-# 💰 Investment Calculator (React)
+# 💰 Investment Calculator
 
 A responsive React-based investment calculator that helps users estimate future returns based on initial investment, annual contributions, expected return rate, and duration. Built to practice component design, state management, and dynamic rendering.
 
@@ -27,7 +27,5 @@ cd react-mini-projects/investment-calculator
 # Install dependencies
 npm install
 
-# To run
-npm run dev
 # Start the development server
-npm start
+npm run dev
