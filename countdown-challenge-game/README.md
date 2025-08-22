@@ -1,22 +1,12 @@
-# ⏱️ Countdown Challenge Game
+# React + Vite
 
-## 🚀 Features
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-- 🎯 Interactive countdown timer with precise control using `useRef`
-- 🧠 Game logic that rewards timing and reflexes
-- 🪟 Modal overlays rendered via React Portals for game feedback
-- 🎨 Responsive and modern UI styled with CSS
+Currently, two official plugins are available:
 
-## 📸 Screenshots
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-<img width="1892" height="917" alt="img1" src="https://github.com/user-attachments/assets/d263927a-f85d-4ab7-8ed3-2512aeccb788" />
-<img width="1078" height="876" alt="img2" src="https://github.com/user-attachments/assets/ab6071c4-d90a-4abd-89b0-967cb929303e" />
+## Expanding the ESLint configuration
 
-
-## 📦 Installation
-
-```bash
-npm install
-npm run dev
-
-
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
